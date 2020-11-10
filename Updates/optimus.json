@@ -1,11 +1,11 @@
  {
   "kernel": {
     "name": "My Kernel Beryllium",
-    "version": "v1.0",
+    "version": "v1.1",
     "link": "",
     "changelog_url": "",
     "date": "2020-11-10",
-    "sha1": "541fe2e0698f0461eb50967b094155858b3b3e13"
+    "sha1": ""
   },
   "support": {
     "link": ""

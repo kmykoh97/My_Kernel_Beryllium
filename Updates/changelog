@@ -1,1 +1,2 @@
-* Init build
+* disabled zram
+* enabled zswap/vnswap
