@@ -8,7 +8,7 @@ on property:dev.bootcomplete=1
    # Enable Spectrum support
    setprop spectrum.support 1
    # Add kernel name
-   setprop persist.spectrum.kernel Optimus_Drunk
+   setprop persist.spectrum.kernel My
 
    # 0. Balanced (default)
    on property:persist.spectrum.profile=0
